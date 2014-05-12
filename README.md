@@ -35,7 +35,7 @@ Version
 Check out my code!
 --------------
 
-##### How Import This repo in Android Studio:
+##### How to Import This repo in Android Studio:
 
 
 * Open Android Studio
