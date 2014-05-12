@@ -54,7 +54,7 @@ License
 DWTFYW (Explanation below)
 
 
-** Do What the Fuck You Want **
+###### Do What the Fuck You Want
 
 [vogella.com]:http://www.vogella.com/tutorials/AndroidSQLite/article.html#overview_sqlite
     
